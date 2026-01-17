@@ -6,3 +6,8 @@ p {
     font-size: 20px;
     color: brown;
 }
+
+.textCenter {
+    text-align: center;
+    text-decoration: underline;
+}
